@@ -41,8 +41,8 @@ Chaque dépôt GitHub dispose d'une section **Discussions** où vous pouvez pose
 
 Pour rester informé de mes projets et ressources, connectez-vous sur :
 
-🌐 GitHub : @hydromelvictor
-💼 LinkedIn : @hydromelvictor
+- 🌐 GitHub : @hydromelvictor
+- 💼 LinkedIn : @hydromelvictor
 
 ## Commencez ici
 
